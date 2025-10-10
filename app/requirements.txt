@@ -1,0 +1,7 @@
+# AI Support System Dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+gunicorn==21.2.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+email-validator==2.1.0

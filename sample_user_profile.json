@@ -1,0 +1,98 @@
+{
+  "personal_info": {
+    "name": "李四",
+    "age": 25,
+    "gender": "女",
+    "avatar": "https://example.com/avatar2.jpg",
+    "bio": "热爱技术的软件工程师"
+  },
+  "contact": {
+    "email": "lisi@example.com",
+    "phone": "13987654321",
+    "wechat": "lisi_tech",
+    "qq": "987654321"
+  },
+  "address": {
+    "street": "浦东新区陆家嘴环路1000号",
+    "city": "上海市",
+    "state": "上海市",
+    "postal_code": "200120",
+    "country": "中国"
+  },
+  "skills": [
+    {
+      "name": "Java",
+      "level": 9,
+      "years_experience": 4.5,
+      "certifications": ["Oracle Java认证", "Spring认证"]
+    },
+    {
+      "name": "React",
+      "level": 8,
+      "years_experience": 3.0,
+      "certifications": ["React认证"]
+    },
+    {
+      "name": "微服务架构",
+      "level": 7,
+      "years_experience": 2.5,
+      "certifications": ["AWS认证"]
+    },
+    {
+      "name": "Docker",
+      "level": 6,
+      "years_experience": 1.5,
+      "certifications": []
+    }
+  ],
+  "education": [
+    {
+      "school": "复旦大学",
+      "degree": "硕士",
+      "major": "软件工程",
+      "graduation_date": "2020-06-01",
+      "gpa": 3.9
+    },
+    {
+      "school": "上海交通大学",
+      "degree": "学士",
+      "major": "计算机科学与技术",
+      "graduation_date": "2018-06-01",
+      "gpa": 3.7
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "阿里巴巴",
+      "position": "Java开发工程师",
+      "start_date": "2020-07-01",
+      "end_date": "2022-12-31",
+      "description": "负责电商平台后端服务开发，使用Spring Boot和微服务架构",
+      "achievements": [
+        "参与双11大促系统优化，QPS提升30%",
+        "设计并实现分布式缓存方案",
+        "获得年度优秀员工奖"
+      ]
+    },
+    {
+      "company": "美团",
+      "position": "高级Java开发工程师",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "description": "负责外卖业务核心系统开发，使用Spring Cloud微服务架构",
+      "achievements": [
+        "主导订单系统重构，系统稳定性提升50%",
+        "设计并实现实时推荐算法",
+        "带领5人团队完成重要项目"
+      ]
+    }
+  ],
+  "preferences": {
+    "work_location": "上海",
+    "salary_expectation": 60000,
+    "work_type": "全职",
+    "remote_work": true,
+    "company_size": "大型企业",
+    "industry": "互联网"
+  }
+}
