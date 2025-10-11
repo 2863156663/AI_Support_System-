@@ -96,7 +96,7 @@ def health_check():
     return jsonify({
         'status': 'healthy',
         'message': 'AI Support System is running',
-        'timestamp': datetime.datetime.now().isoformat(),
+        'timestamp': datetime.now().isoformat(),
         'version': '1.0.0'
     })
 
